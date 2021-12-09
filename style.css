@@ -1,0 +1,35 @@
+
+.heading{
+    font-size:25px;
+    text-shadow: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px green;
+    text-align: center;
+}
+
+.note{
+    font-size: 15px;
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: white;
+    text-align: center;
+}
+
+.copyright_footer{
+    position: fixed;
+    background-color: grey;
+    width: 100%;
+    bottom:0;
+    color:white;
+    text-align: center;
+    text-shadow: turquoise;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px blue;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
